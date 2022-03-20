@@ -1,0 +1,129 @@
+.options{
+    display: flex;
+    font-size: large;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+    width: 30vh;
+    height: 5vh;
+}
+.header{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    text-align: center;
+    
+}
+.optionsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    text-align: center;
+}
+.correct{
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+    animation: blinker 0.5s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 50%;
+  }
+}
+.not-selected{
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+}
+.not-selected:hover{
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+}  
+.incorrect{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+}
+.score{
+    background-color: black;
+    color: white;
+    display: flex;
+    border-radius: 10px;
+    margin: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+    text-align: center;
+
+}
+.restart{
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+}
+.restart:hover{
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+}
+.skip{
+    background-color: coral;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+}
+.skip:hover{
+    background-color: bisque;   
+    color: black;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 30vh;
+    height: 5vh;
+}

@@ -1,0 +1,132 @@
+{
+"quiz":[
+    {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actress's real name was Frances Ethel Gumm?",
+    "correct_answer": "Judy Garland",
+    "options": [
+    "Doris Day",
+    "Julie Andrews",
+    "Judy Garland",
+    "Marilyn Monroe"
+    ]
+    },
+    {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "This movie contains the quote, 'I feel the need ... the need for speed!'",
+    "correct_answer": "Top Gun",
+    "options": [
+    "Days of Thunder",
+    "The Color of Money",
+    "Cocktail",
+    "Top Gun"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many zombies need to be killed to get the 'Zombie Genocider' achievement in Dead Rising (2006)?",
+    "correct_answer": "53,594",
+    "options": [
+    "53,593",
+    "53,594",
+    "53,595",
+    "53,596"
+    ]
+    },
+    {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The novel 'Of Mice And Men' was written by what author? ",
+    "correct_answer": "John Steinbeck ",
+    "options": [
+    "John Steinbeck",
+    "George Orwell",
+    "Mark Twain ",
+    "Harper Lee"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+    "correct_answer": "IDCLIP",
+    "options": [
+    "IDFA",
+    "IDDQD",
+    "IDSPISPOPD",
+    "IDCLIP"
+    ]
+    },
+    {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The walls of the Goldenrod City Gym in 'Pokemon Gold and Silver' are arranged in the shape of which Pokemon?",
+    "correct_answer": "Clefairy",
+    "options": [
+    "Bulbasaur",
+    "Pikachu",
+    "Clefairy",
+    "Pidgey"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The National Animal of Scotland is the Unicorn.",
+    "correct_answer": "True",
+    "options": [
+    "True",
+    "False"
+    ]
+    },
+    {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "correct_answer": "At the bottom of the ocean",
+    "options": [
+    "At the bottom of the ocean",
+    "In the desert",
+    "On top of a mountain",
+    "Inside a tree"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the author of Jurrasic Park?",
+    "correct_answer": "Michael Crichton",
+    "options": [
+    "Peter Benchley",
+    "Chuck Paluhniuk",
+    "Irvine Welsh",
+    "Michael Crichton"
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+    "correct_answer": "Hannibal",
+    "options": [
+    "Garmanicus",
+    "Alexander the Great",
+    "Tiberius",
+    "Hannibal"
+    ]
+    }
+]
+}
